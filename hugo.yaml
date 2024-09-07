@@ -1,0 +1,57 @@
+sitename: "Melveta Atkinson"
+baseURL: "https://melvetaatkinson.com"
+languageCode: en-us
+title: "Melveta Atkinson"
+author: Melveta Atkinson
+
+# enableEmoji: true
+# hasCJKLanguage: false
+# # You can change code highlight theme
+# pygmentsstyle: "tango"
+# pygmentscodefences: true
+
+# if you want to add html to your markdown
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Links of the navbar
+menu:
+  primary:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: /about
+      weight: 2
+    # - name: Subscribe
+    #   url: /index.xml
+    #   weight: 3
+
+# You can add languages!
+# do not expect it to work out of the box
+# https://gohugo.io/content-management/multilingual/
+defaultContentLanguage: en
+languages:
+  en:
+    LanguageName: English
+    # contentDir: content/english
+
+params:
+  sitename: "Melveta Atkinson"
+  copyrights: Melveta Atkinson
+  defaultList: global
+  paginationLen: 3
+  myprojects:
+    - name: "Totally Awesome Project"
+      description: "Machine Learning Magic!!!"
+      url: https://example.com
+    - name: "Kaslaanka"
+      description: "The best hugo theme ever!!!"
+      url: https://github.com/M1cR0xf7/kaslaanka
+  projectsURL: https://melvetaatkinson.com
+
+  brief_about: <center>A little bit about me</center>
+
+theme: kaslaanka
