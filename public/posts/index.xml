@@ -3,16 +3,16 @@
 
   <channel>
     <title>Posts on Melveta Atkinson</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://melvetaatkinson.com/posts/</link>
     <description>Recent content in Posts on Melveta Atkinson</description>
     
     <language>en</language>
-    <lastBuildDate>Sat, 07 Sep 2024 16:46:57 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Sep 2024 16:46:57 -0500</lastBuildDate><atom:link href="https://melvetaatkinson.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>http://localhost:1313/posts/example/</link><pubDate>Sat, 07 Sep 2024 16:46:57 -0500</pubDate>
+      <link>https://melvetaatkinson.com/posts/example/</link><pubDate>Sat, 07 Sep 2024 16:46:57 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/example/</guid>
+      <guid>https://melvetaatkinson.com/posts/example/</guid>
       <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;
 &lt;p&gt;test&lt;/p&gt;</description>
     </item>

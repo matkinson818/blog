@@ -3,9 +3,9 @@
 
   <channel>
     <title>Tags on Melveta Atkinson</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://melvetaatkinson.com/tags/</link>
     <description>Recent content in Tags on Melveta Atkinson</description>
     
-    <language>en</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://melvetaatkinson.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

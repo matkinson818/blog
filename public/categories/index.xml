@@ -3,9 +3,9 @@
 
   <channel>
     <title>Categories on Melveta Atkinson</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://melvetaatkinson.com/categories/</link>
     <description>Recent content in Categories on Melveta Atkinson</description>
     
-    <language>en</language><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://melvetaatkinson.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

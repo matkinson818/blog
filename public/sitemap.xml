@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/example/</loc>
+    <loc>https://melvetaatkinson.com/posts/example/</loc>
     <lastmod>2024-09-07T16:46:57-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://melvetaatkinson.com/</loc>
     <lastmod>2024-09-07T16:46:57-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://melvetaatkinson.com/posts/</loc>
     <lastmod>2024-09-07T16:46:57-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://melvetaatkinson.com/about/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://melvetaatkinson.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://melvetaatkinson.com/tags/</loc>
   </url>
 </urlset>
